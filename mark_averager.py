@@ -23,7 +23,7 @@ def main():
     percent = None
 
     # input & output
-    percent = input("Mark (%): ")
+    percent = input("Enter Your Marks (%): ")
 
     try:
 
